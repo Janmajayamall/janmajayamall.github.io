@@ -18,20 +18,10 @@ const ContactPage = () => {
       </Helmet>
       <Container>
         <h1>Contact</h1>
-        <p>Let's get in touch!</p>
+        <p>Feel free to contact me anytime!</p>
         <div className="contact__icon">
           <a
-            href="https://www.linkedin.com/in/arslaanamar/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <svg className="contact__icon-item">
-              <use xlinkHref={`#${linked.id}`} />
-            </svg>
-          </a>
-
-          <a
-            href="https://github.com/a2zarslaan"
+            href="https://github.com/janmajayamall"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -40,24 +30,15 @@ const ContactPage = () => {
             </svg>
           </a>
 
-          <a
-            href="https://dribbble.com/arslaanamar/shots"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <svg className="contact__icon-item">
-              <use xlinkHref={`#${dribbble.id}`} />
-            </svg>
-          </a>
-
-          <a href="mailto:amar.arslaan@gmail.com" rel="noopener noreferrer">
+    
+          <a href="mailto:janmajayamall18@gmail.com" rel="noopener noreferrer">
             <svg className="contact__icon-item">
               <use xlinkHref={`#${mail.id}`} />
             </svg>
           </a>
 
           <a
-            href="https://www.instagram.com/arslaanamar/"
+            href="https://www.instagram.com/janmajayamall"
             target="_blank"
             rel="noopener noreferrer"
           >

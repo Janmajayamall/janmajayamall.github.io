@@ -1,0 +1,45 @@
+.page-books {
+    h1 {
+      color: var(--color-orange);
+    }
+  
+    .project-card {
+      color: var( --color-white);
+      background: var(--color-orange);
+      padding: 10rem 2rem;
+      display: flex;
+      justify-content: space-between;
+  
+      &:hover {
+        color: var(--color-white);
+        //background-color: var(--color-black);
+        @include blue-gradient;
+        transform: translateY(-0.6rem);
+        box-shadow: var(--shadow-dark);
+        transition: all 0.2s;
+      }
+    }
+
+    header {
+      background-color: var(--color-orange);
+    }
+  
+    a {
+      text-decoration: none;
+      font-family: BioRhyme, sans-serif;
+    }
+
+    p {
+        font-size: 1.5rem;
+    }
+  
+    main li {
+      list-style-type: none;
+      margin-top: 2rem;
+    }
+
+    header p {
+        color: var(--color-grey-light-1);
+    }
+  }
+  

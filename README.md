@@ -32,6 +32,6 @@ A minimalistic Gatsby starter template featuring SASS and CSS 7-1 architecture. 
 
 Project structure inspired by [Colby Fayok's Gatsy Starter](https://github.com/colbyfayock/gatsby-starter-sass)
 
-This template was taken from [a2zarslaan's gatsby starter pack](https://github.com/a2zarslaan/gatsby-starter-sasslan)
+This template design was taken from [a2zarslaan's gatsby starter pack](https://github.com/a2zarslaan/gatsby-starter-sasslan)
 
 

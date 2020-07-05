@@ -33,7 +33,7 @@ const ProjectsPage = () => {
       <Helmet>
         <title>Projects</title>
       </Helmet>
-      <Container>
+      {/* <Container>
         <h1>Projects</h1>
         <ol>
           {data.allMarkdownRemark.edges.map((edge) => {
@@ -48,15 +48,15 @@ const ProjectsPage = () => {
                 >
                   <div className="project-card">
                     <h2>{edge.node.frontmatter.title}</h2>
-                    {/* <p>{edge.node.frontmatter.date}</p>
-                    <p>{edge.node.frontmatter.type}</p> */}
+                    <p>{edge.node.frontmatter.date}</p>
+                    <p>{edge.node.frontmatter.type}</p>
                   </div>
                 </AniLink>
               </li>
             );
           })}
         </ol>
-      </Container>
+      </Container> */}
     </Layout>
   );
 };

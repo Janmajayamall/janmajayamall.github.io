@@ -4,7 +4,7 @@ import Helmet from "react-helmet";
 import Layout from "components/Layout";
 import Container from "components/Container";
 
-import img_gatsby from "assets/images/cover.png";
+import img_gatsby from "assets/images/cover.jpeg";
 
 const IndexPage = () => {
   return (
@@ -14,10 +14,10 @@ const IndexPage = () => {
       </Helmet>
       <Container>
         <p className="cover">
-          <img src={img_gatsby} alt="Woops..something went" />
+          <img style={{borderRadius:20}} src={img_gatsby} alt="Woops..something went" />
         </p>
         <h1 className="heading">Hello! I am Janmajaya.</h1>
-        <p>dawdada</p>
+        <p>Welcome to my site. I use this to write stuff.</p>
       </Container>
     </Layout>
   );

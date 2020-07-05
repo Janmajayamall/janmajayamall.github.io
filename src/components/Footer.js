@@ -6,15 +6,7 @@ import github from "assets/images/SVG/github.svg";
 import Container from "components/Container";
 
 const Footer = () => {
-  const data = useStaticQuery(graphql`
-    query {
-      site {
-        siteMetadata {
-          author
-        }
-      }
-    }
-  `);
+
   return (
     <footer>
       <Container>
@@ -27,17 +19,10 @@ const Footer = () => {
           </span>{" "}
           using Gatsby.
         </p>
-        <div className="footer__icons">      
-          <a
-            href="https://github.com/a2zarslaan"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <svg className="footer__icons-item">
-              <use xlinkHref={`#${github.id}`} />
-            </svg>
-          </a>
-
+        <div className="footer__icons">   
+          <p>
+            For anything, mail me
+          </p>   
           <a href="mailto:janmajayamall18@gmail.com" rel="noopener noreferrer">
             <svg className="footer__icons-item">
               <use xlinkHref={`#${mail.id}`} />

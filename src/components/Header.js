@@ -18,7 +18,7 @@ const Header = () => {
   return (
     <header>
       <Container>
-        <p>JAY</p>
+        {/* <p>JAY</p> */}
         {/* uncomment the line below to add your name in the header */}
         {/* <p>{data.site.siteMetadata.author}</p> */}
         <ul>
@@ -38,7 +38,7 @@ const Header = () => {
               cover
               direction="right"
               to="/books/"
-              bg="#E16085"
+              bg="#ef5350"
               duration={0.7}
               className="header-link"
             >
