@@ -1,7 +1,6 @@
 import React from "react";
 import { graphql, useStaticQuery } from "gatsby";
 import mail from "assets/images/SVG/mail.svg";
-import linked from "assets/images/SVG/linkedin.svg";
 import github from "assets/images/SVG/github.svg";
 
 import Container from "components/Container";
@@ -28,17 +27,7 @@ const Footer = () => {
           </span>{" "}
           using Gatsby.
         </p>
-        <div className="footer__icons">
-          <a
-            href="https://www.linkedin.com/in/arslaanamar/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <svg className="footer__icons-item">
-              <use xlinkHref={`#${linked.id}`} />
-            </svg>
-          </a>
-
+        <div className="footer__icons">      
           <a
             href="https://github.com/a2zarslaan"
             target="_blank"
@@ -49,7 +38,7 @@ const Footer = () => {
             </svg>
           </a>
 
-          <a href="mailto:amar.arslaan@gmail.com" rel="noopener noreferrer">
+          <a href="mailto:janmajayamall18@gmail.com" rel="noopener noreferrer">
             <svg className="footer__icons-item">
               <use xlinkHref={`#${mail.id}`} />
             </svg>

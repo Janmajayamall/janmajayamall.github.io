@@ -14,10 +14,10 @@ const IndexPage = () => {
       </Helmet>
       <Container>
         <p className="cover">
-          <img src={img_gatsby} alt="Amar Zia Arslaan Being Artsy" />
+          <img src={img_gatsby} alt="Woops..something went" />
         </p>
-        <h1 className="heading">Hello! I'm Sasslan</h1>
-        <p>Welcome to your new site.</p>
+        <h1 className="heading">Hello! I am Janmajaya.</h1>
+        <p>dawdada</p>
       </Container>
     </Layout>
   );
