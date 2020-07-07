@@ -52,4 +52,16 @@ Viktor Frankl writes the following as a response to the book's success - "Whereu
 "Don't aim at success - the more you aim at it and make it a target, the more you are going to miss. For success, like happiness, cannot be pursued; it must ensue", and it only does so as the unintended side-effect of one's dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. I want you to listen to what your conscience commands you to do and go on to carry it out the best of your knowledge. Then you will to see that in the long run -- in the long run, I say! -- success will follow you precisely because you had forgotten to think of it." -- Viktor Frankl
 
 <br/>
+
+Viktor Frankl while thinking of his wife in camp -- "A thought transfixed me: for the first time in my life I saw the truth as it is set into song by so many poets, proclaimed as the final wisdom by so many thinkers. The truth --that love is the ultimate and the highest goal to which man can aspire. The I grasped the meaning of the greatest secret that human poetry and human thought and belief have to impart: *The salvation of man is through love and in love*". I understood how a man who has nothing left in this world stull may know bliss, be it only for a brief moment, in the contemplation of his beloved. In a position of utter desolation, when man cannot express himself in positive action, when his only achievement may consist in enduring his sufferings in the right way -- a honorable way -- in such a position man can, through loving contemplation of the image he carries of his beloved, achieve fulfillment. For the first time in my life I was able to understand the meaning of the words, 'The angles are lost in perpetual contemplation of an infinite glory'"
+
+<br/>
+
+"I know only one thing -- which I have learned well by now: Love goes far beyond the physical person of the beloved. It fins its deepest meaning in his spiritual being, his inner self. Whether or not he is actually present, whether or not he is still alive at all, ceases somehow to be of importance." -- Viktor Frankl
+
+<br/>
+
+"It is well known that humor, more than anything else in the human make-up, can afford an aloofness and an ability to rise above any situation, even if only for a few seconds" -- Viktor Frankl
+
+<br/>
 <br/>
